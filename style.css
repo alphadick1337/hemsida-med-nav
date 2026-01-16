@@ -1,0 +1,61 @@
+/* ============================= */
+/* style.css – Gemensam stilfil */
+/* ============================= */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+header {
+  background-color: #2e7d32;
+  color: #ffffff;
+  padding: 1.5rem;
+  text-align: center;
+}
+
+nav {
+  background-color: #333;
+  padding: 1rem;
+  text-align: center;
+}
+
+nav a {
+  color: #ffffff;
+  margin: 0 1rem;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+main {
+  max-width: 900px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background-color: #ffffff;
+}
+
+h1, h2 {
+  color: #2e7d32;
+}
+
+ul {
+  padding-left: 1.5rem;
+}
+
+footer {
+  background-color: #333;
+  color: #ffffff;
+  text-align: center;
+  padding: 1rem;
+  font-size: 0.9rem;
+}
