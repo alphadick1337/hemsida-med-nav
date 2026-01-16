@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Vad är Tequila?</title>
+</head>
+<body>
+<nav>
+<a href="index.html">Start</a> |
+<a href="tillverkning.html">Tillverkning</a> |
+<a href="typer-av-tequila.html">Olika sorter</a>
+</nav>
+
+
+<main>
+<h1>Vad är tequila?</h1>
+<p>
+Tequila är en spritdryck som tillverkas i Mexiko av blå agave.
+För att få kallas tequila måste drycken produceras i specifika regioner,
+främst i delstaten Jalisco.
+</p>
+</main>
+</body>
+</html>
