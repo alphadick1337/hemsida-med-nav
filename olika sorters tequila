@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Olika sorters Tequila</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <nav>
+    <a href="index.html">Start</a>
+    <a href="vad-ar-tequila.html">Vad är tequila?</a>
+    <a href="tillverkning.html">Tillverkning</a>
+  </nav>
+
+  <main>
+    <h1>Olika sorters tequila</h1>
+    <ul>
+      <li>Blanco</li>
+      <li>Reposado</li>
+      <li>Añejo</li>
+      <li>Extra Añejo</li>
+    </ul>
+  </main>
+
+</body>
+</html>
