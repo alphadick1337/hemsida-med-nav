@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Olika sorters Tequila</title>
+</head>
+<body>
+<nav>
+<a href="index.html">Start</a> |
+<a href="vad-ar-tequila.html">Vad är tequila?</a> |
+<a href="tillverkning.html">Tillverkning</a>
+</nav>
+
+
+<main>
+<h1>Olika sorter av tequila</h1>
+<ul>
+<li><strong>Blanco</strong> – Olagrad och klar</li>
+<li><strong>Reposado</strong> – Lagrad 2–12 månader</li>
+<li><strong>Añejo</strong> – Lagrad minst 1 år</li>
+<li><strong>Extra Añejo</strong> – Lagrad över 3 år</li>
+</ul>
+</main>
+</body>
+</html>
